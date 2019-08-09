@@ -13,4 +13,4 @@ Wait(1)
 Browser("Advantage Shopping").Page("Advantage Shopping").WebButton("check_out_btn").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").WebButton("check out btn")_;_script infofile_;_ZIP::ssf6.xml_;_
 Wait(1)
 
-'reportest
+'commit 2
